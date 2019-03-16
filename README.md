@@ -5,7 +5,7 @@ As Xcode file templates doesn't allow to create groups by the template, this sol
 Comments are welcome.
 
 
-##Installation
+## Installation
 
 To install tempates, run in the Terminal:
 >`make install-all-templates`
