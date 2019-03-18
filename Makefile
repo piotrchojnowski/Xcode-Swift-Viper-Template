@@ -1,5 +1,5 @@
-XCODE_TEMPLATE_DIR:=~/Library/Developer/Xcode/Templates/File\ Templates
-VIPER_TEMPLATE_DIR:=VIPER-Swift
+XCODE_TEMPLATE_DIR=~/Library/Developer/Xcode/Templates/File\ Templates
+VIPER_TEMPLATE_DIR=VIPER-Swift
 
 install-template:
 	rm -R -f $(XCODE_TEMPLATE_DIR)/$(VIPER_TEMPLATE_DIR)
