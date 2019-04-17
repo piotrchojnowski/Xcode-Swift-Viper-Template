@@ -6,9 +6,9 @@
 //  Copyright (c) ___YEAR___ ___ORGANIZATIONNAME___. All rights reserved.
 //
 
-class ___VARIABLE_moduleName___Presenter: ___VARIABLE_moduleName___ModuleInput, ___VARIABLE_moduleName___ViewOutput, ___VARIABLE_moduleName___InteractorOutput {
+class ___VARIABLE_moduleName___Presenter: ___VARIABLE_moduleName___ModuleInput, ___VARIABLE_moduleName___ViewControllerOutput, ___VARIABLE_moduleName___InteractorOutput {
 
-    weak var view: ___VARIABLE_moduleName___ViewInput!
+    weak var view: ___VARIABLE_moduleName___ViewControllerInput!
     var interactor: ___VARIABLE_moduleName___InteractorInput!
     var router: ___VARIABLE_moduleName___RouterInput!
 

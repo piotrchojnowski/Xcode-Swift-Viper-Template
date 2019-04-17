@@ -10,12 +10,12 @@ import Foundation
 
 //MARK: - View protocols
 
-protocol ___VARIABLE_moduleName___ViewInput: class {
+protocol ___VARIABLE_moduleName___ViewControllerInput: class {
     
     func setupInitialState()
 }
 
-protocol ___VARIABLE_moduleName___ViewOutput: class {
+protocol ___VARIABLE_moduleName___ViewControllerOutput: class {
     
     func viewIsReady()
 }

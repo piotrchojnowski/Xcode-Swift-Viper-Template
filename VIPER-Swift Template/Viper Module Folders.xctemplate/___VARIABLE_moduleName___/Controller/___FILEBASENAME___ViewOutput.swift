@@ -6,7 +6,7 @@
 //  Copyright (c) ___YEAR___ ___ORGANIZATIONNAME___. All rights reserved.
 //
 
-protocol ___VARIABLE_moduleName___ViewOutput {
+protocol ___VARIABLE_moduleName___ViewControllerOutput {
 
     /**
         @author ___FULLUSERNAME___
