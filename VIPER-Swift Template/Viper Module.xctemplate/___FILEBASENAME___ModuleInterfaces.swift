@@ -1,6 +1,6 @@
 //
 //  TestModuleInterfaces.swift
-//  WeatherOnDemand
+//  ___PROJECTNAME___
 //
 //  Created by Piotr Chojnowski on 16/03/2019.
 //  Copyright © 2019 Piotr Chojnowski - OctoTap. All rights reserved.
